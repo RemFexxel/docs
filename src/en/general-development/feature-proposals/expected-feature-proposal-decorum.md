@@ -1,6 +1,6 @@
 # Expected Feature Proposal Decorum
 
-{{#template ../../templates/wip.md}}
+{% include ../../templates/wip.md %}
 
 - No half-baked stuff or scratchbooks or anything like that. Only fully-formed documents.
 - If you’re the main author of something, put your name in the title in brackets. Otherwise, note all of the authors and designers in italics under the main header. The primary designers take priority over the author of a document.
